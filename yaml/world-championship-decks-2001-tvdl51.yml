@@ -1,0 +1,109 @@
+---
+object: card
+id: 52b46846-a320-4b82-a440-f96c84426938
+oracle_id: af2845cf-8770-4efa-8a83-bf9eb4122b78
+multiverse_ids: []
+tcgplayer_id: 164326
+cardmarket_id: 249470
+name: Phyrexian Scuta
+lang: en
+released_at: '2001-08-08'
+uri: https://api.scryfall.com/cards/52b46846-a320-4b82-a440-f96c84426938
+scryfall_uri: https://scryfall.com/card/wc01/tvdl51/phyrexian-scuta?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/2/52b46846-a320-4b82-a440-f96c84426938.jpg?1562490577
+  normal: https://cards.scryfall.io/normal/front/5/2/52b46846-a320-4b82-a440-f96c84426938.jpg?1562490577
+  large: https://cards.scryfall.io/large/front/5/2/52b46846-a320-4b82-a440-f96c84426938.jpg?1562490577
+  png: https://cards.scryfall.io/png/front/5/2/52b46846-a320-4b82-a440-f96c84426938.png?1562490577
+  art_crop: https://cards.scryfall.io/art_crop/front/5/2/52b46846-a320-4b82-a440-f96c84426938.jpg?1562490577
+  border_crop: https://cards.scryfall.io/border_crop/front/5/2/52b46846-a320-4b82-a440-f96c84426938.jpg?1562490577
+mana_cost: "{3}{B}"
+cmc: 4.0
+type_line: Creature — Phyrexian Zombie
+oracle_text: |-
+  Kicker—Pay 3 life. (You may pay 3 life in addition to any other costs as you cast this spell.)
+  If Phyrexian Scuta was kicked, it enters the battlefield with two +1/+1 counters on it.
+power: '3'
+toughness: '3'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Kicker
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 4d62d576-cf71-46e8-b0db-dfff03f36cb1
+set: wc01
+set_name: World Championship Decks 2001
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/4d62d576-cf71-46e8-b0db-dfff03f36cb1
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awc01&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wc01?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/52b46846-a320-4b82-a440-f96c84426938/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aaf2845cf-8770-4efa-8a83-bf9eb4122b78&unique=prints
+collector_number: tvdl51
+digital: false
+rarity: rare
+card_back_id: 420c2336-e212-4109-8525-b0fc69201351
+artist: Scott M. Fischer
+artist_ids:
+- 23b0cf43-3e43-44c6-8329-96446eca5bce
+illustration_id: 14a7959e-1cdc-4658-87b3-b360ea350b4f
+border_color: gold
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 21184
+penny_rank: 8586
+prices:
+  usd: '0.22'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.08'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Phyrexian+Scuta&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Phyrexian+Scuta&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Phyrexian+Scuta
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/164326?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Phyrexian+Scuta&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Phyrexian+Scuta&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
